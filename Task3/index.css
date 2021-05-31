@@ -1,0 +1,133 @@
+body{
+	background:#fff;
+}
+#title-section{
+	padding:0 15% 12%;
+	background:#91091e;
+
+}
+.logo-image{
+	width: 17%;
+}
+.title-h1{
+	font-size: 5rem;
+	color:#fff;
+	font-family:sans-serif;
+	font-weight: 900;
+	margin-top: 0;
+}
+.title-h3{
+	font-size:2.4rem;
+	font-weight:800;
+	font-family: sans-serif;
+	margin-top: -8%;
+}
+.title-para{
+	font-size: 1.2rem;
+	font-weight: 600;
+	color:#fff;
+	font-family: sans-serif;
+	line-height: 1.5;
+	word-spacing: 3px;
+}
+/*CLUBS SECTION*/
+#club-section{
+	padding:0 15%;
+}
+.row{
+	display: flex;
+	margin-left: -2%;
+	padding-bottom: 5%;
+}
+.club-h2{
+	font-size: 4rem;
+	font-weight: 800;
+	font-family:sans-serif;
+}
+.bvb{
+	width: 60%;
+}
+.bvb-logo{
+	text-align: center;
+}
+h4{
+	font-size: 1.1rem;
+	font-family: sans-serif;
+	word-spacing: 3px;
+	line-height: 1.2;
+	letter-spacing: 1.5px;
+}
+.club-h4{
+	color:#91091e;
+}
+.blue-text{
+	color:#150e56;
+}
+/*FOOTER SECTION*/
+#footer-section{
+	padding:5% 15%;
+	background:#91091e;
+}
+.footer-h1{
+	font-size:3rem;
+	font-weight: 800;
+	font-family: sans-serif; 
+	color:#fff;
+}
+/*RED CARD FORM CORNER*/
+#form-section{
+	background: #91091e;
+	padding:5% 5% 35%;
+}
+.form-logo{
+	width:30%;
+}
+.form-row{
+	display: flex;
+}
+.form-column1{
+	width: 50%;
+	margin: 14% 15% 0 2%;
+}
+.form-column2{
+	width:50%;
+}
+.form-h1{
+font-size: 4rem;
+font-weight: 800;
+color:#fff;
+font-family: sans-serif;
+margin-bottom:-1%;
+}
+.form-para{
+	font-family: sans-serif;
+}
+.form-h3{
+	font-size: 1.5rem;
+	font-family: sans-serif;
+	font-weight: 800;
+}
+input{
+	background: #91091e;
+	border: solid 2px #fff;
+}
+.form-box{
+	margin-bottom: 5%;
+	height: 8%;
+	width:80%;
+	
+}
+.big-box{
+	margin-bottom:5%;
+	height: 10%;
+	width:80%;
+}
+.form-button{
+	font-size: 1rem;
+	padding:3% 10%;
+	font-size: 1.5rem;
+	word-spacing: 2px;
+}
+.fas{
+	padding-right: 10px;
+}
